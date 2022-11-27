@@ -15,6 +15,7 @@
 
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA)
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 
 ## golang
 
